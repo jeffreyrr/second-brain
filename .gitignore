@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local backups (backup.py writes these next to the folder, but just in case)
+*-backup-*.zip
+
+# OS cruft
+.DS_Store
+Thumbs.db
