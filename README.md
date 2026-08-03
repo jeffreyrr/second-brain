@@ -71,3 +71,9 @@ New here? Just say **`getting started`** and Claude walks you through your first
 ---
 
 Every feature in depth → [`docs/guide.md`](docs/guide.md) · the assistant's full rulebook → `CLAUDE.md`.
+
+## License
+
+MIT — see [`LICENSE`](LICENSE). Reuses MIT-licensed conventions from
+[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills); attributions are in
+[`docs/guide.md`](docs/guide.md#optional-add-ons).
